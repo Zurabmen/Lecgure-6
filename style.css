@@ -1,0 +1,44 @@
+/*
+.Tremp {
+    transition: all 3s;
+    width: 1000px;
+    height: 1000px; 
+    background-image: url("https://images.foxtv.com/c107833-mcdn.mp.lura.live/expiretime=2082787200/55aaa79d4ec3789fe93881ea106ebe7c7cb45d9ee00cf6b67c6a958ae3239e40/iupl/41E/F7C/592/333/41EF7C2F383D33F362BFD21F1A329CCA.jpg?ve=1&tl=1");
+    background-repeat: no-repeat;
+    background-size: cover
+ 
+}
+.Tremp:hover {
+	background-image: url("../Images/dtrump.png");
+}
+.Box{
+	margin-top: 100px;
+	margin-bottom: 50px;
+	width: 500px;
+	height: 500px;
+	background-color: blue;
+	border-radius: 136px 10px;
+	box-shadow: 10px 10px 105px red;
+}
+.lorem{
+	margin-top: 500px;
+	text-shadow: 2px 2px red;
+	font-size: 20px;
+	margin-bottom: 500px;
+}*/
+/*conte and tukhe*/
+.Tukhe{
+	width: 500px;
+	height: 500px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-image: url(../Images/dtrump.png);
+	transition-property: all;
+	transition-duration: 2s;
+	transition-delay: 0.3s;
+	transition-timing-function: ease-out; 
+
+}
+.Tukhe:hover{
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/1200px-Joe_Biden_presidential_portrait.jpg);
+}
